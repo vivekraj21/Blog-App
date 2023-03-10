@@ -19,8 +19,6 @@
   
 # Deployment :
 
-# Steps to start application :
-
 - Copy the code and start it into your STS.
 - Then make change in application.properties file according to below image.
 ![p1](https://user-images.githubusercontent.com/103635442/224430921-04e25116-68d9-4075-9099-bbca4fee2fff.png)
