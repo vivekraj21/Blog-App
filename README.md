@@ -1,6 +1,7 @@
 # Blog-App
 
-![p1](https://www.pngitem.com/pimgs/m/41-413525_lecteur-video-youtube-hd-png-download.png)
+![p1](https://user-images.githubusercontent.com/103635442/224432448-125fd142-b0b1-4660-81f5-1fb5c0653c93.jpg)
+
 
 # Motto
 - It is a SpringBoot application which allows user to post blog, view blog etc.
